@@ -3,34 +3,41 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
+	text-align:center;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+	text-align:center;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #000000;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 2em;
+    font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:BLACK;
+	text-align:center;
 }
 p {
-    font-size: 1.5em;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 1.2em;
     line-height: 1.4em;
-    color: #333;
+    color: BLACK;
+	text-align:center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+	color: BLACK;
 }
 
 ul.posts { 
