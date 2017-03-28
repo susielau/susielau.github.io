@@ -30,20 +30,20 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-	color:BLACK;
-	text-align:center;
+    color:BLACK;
+    text-align:center;
 }
 p {
-	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-size: 1.2em;
     line-height: 1.4em;
     color: BLACK;
-	text-align:center;
+    text-align:center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-	color: BLACK;
+    color: BLACK;
 }
 
 ul.posts { 
