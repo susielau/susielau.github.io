@@ -1,9 +1,23 @@
 @charset "UTF-8";
 /* CSS Document */
 
+html{
+	background: url(http://i4.bvimg.com/620557/2ebf0e22097bee22.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.content{
+	background-color:rgba(0,0,0,0.7);
+	color:white;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
+	color:white;
 }
 nav ul, footer ul {
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
@@ -30,14 +44,14 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-    color:BLACK;
+    color:WHITE;
     text-align:center;
 }
 p {
     font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-size: 1.2em;
     line-height: 1.4em;
-    color: BLACK;
+    color: WHITE;
     text-align:center;
 }
 footer {
