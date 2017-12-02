@@ -2,23 +2,23 @@
 /* CSS Document */
 
 html{
-	background-color:#444;
+	background-color:#C7C2C0;
 	padding:0 lem;
 }
 
 body {
     margin: lem auto;
     max-width: 50em;
-	height:52.625em;
-	background-color:#B0AEAF;
+	height:120em;
+	background-color:#928584;
 	font-family:actor;
 }
 
 #section-left{
 	width:35%;
 	float:left;
-	height:100%;
-	background-color:#E4CDCB;
+	height:50%;
+	background-color:#2A3132;
 	color:#fff;
 	text-align:center;
 }
@@ -63,6 +63,7 @@ h1{
 
 #section-right{
 	width:65%;
+	height:100%;
 	float:right;
 }
 
@@ -71,7 +72,7 @@ h1{
 }
 
 .wrapper{
-	padding:2em;
+	padding:4em;
 }
 
 .fa{
