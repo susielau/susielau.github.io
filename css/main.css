@@ -1,12 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
-html{
-	background: url("https://i.loli.net/2017/12/10/5a2c57e6d95c5.jpeg") no-repeat center center fixed; 
-  	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
+html { 
+  background: url(WechatIMG1.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .content{
