@@ -5,33 +5,37 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Apr 2019 20:04:19 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2019 20:04:19 -0500</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2019 17:37:31 -0500</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2019 17:37:31 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Welcome</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
-&lt;/blockquote&gt;
+        <title>Welcome | 你终于来了</title>
+        <description>&lt;h2 id=&quot;welcome--你终于来了&quot;&gt;Welcome | 你终于来了&lt;/h2&gt;
 
-&lt;h2 id=&quot;你好世界&quot;&gt;你好世界&lt;/h2&gt;
+&lt;p&gt;Hey, didn’t expect to see you here.&lt;/p&gt;
 
-&lt;p&gt;Waited for a long time before finally having the courage to open up a blog exclusively for myself. Feel like there should be some form of introduction before getting started:&lt;/p&gt;
+&lt;p&gt;Call me Susie.&lt;/p&gt;
 
-&lt;p&gt;Call me Susie (Okay, obviously it is not a name with clear pronunciation: every time I introduce myself, people would ask me to repeat).&lt;/p&gt;
+&lt;p&gt;I enjoy cooking, music, and sometimes running. A big fan of musicals and korean shows.&lt;/p&gt;
 
-&lt;p&gt;I enjoy cooking, music, and sometimes running (seriously, this &lt;strong&gt;depends on&lt;/strong&gt; my mood XD).&lt;/p&gt;
-
-&lt;p&gt;Currently majoring in… Let’s not talk about majors! This will be my personal blog.&lt;/p&gt;
+&lt;p&gt;I am currently a sophomore studying stats &amp;amp; CS, and economics @ the University of Illinois at Urbana Champaign.&lt;/p&gt;
 
 &lt;p&gt;And finally, welcome to my world, let me lead you through it.&lt;/p&gt;
+
+&lt;p&gt;你好呀，我是苏西。&lt;/p&gt;
+
+&lt;p&gt;简单来说，是一个享受做饭，音乐和跑步的人。同时也是音乐剧和韩国综艺节目的头号粉丝。&lt;/p&gt;
+
+&lt;p&gt;就读于UIUC的统计&amp;amp;计算机专业，双修经济。&lt;/p&gt;
+
+&lt;p&gt;欢迎你来参观我的世界，让我带你四处转转：）&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Apr 2019 14:00:00 -0500</pubDate>
         <link>http://localhost:4000/2019/04/02/hello/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/04/02/hello/</guid>
         
-        <category>生活</category>
+        <category>Life</category>
         
         
       </item>
