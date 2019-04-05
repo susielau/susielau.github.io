@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Meals | 我都吃了些什么"
-subtitle:   " \"I just can't live without food\""
+title:      "Snacks | 超爱的零食"
+subtitle:   " \"I call these the cure. 它们是我的最佳解药。\""
 date:       2019-04-03 19:00:00
 author:     "Susie"
 header-img: "img/meals-bg.jpg"
@@ -10,13 +10,11 @@ tags:
 
 ---
 
-## Meals | 我都吃些什么
-
-#### (1) Farmhouse | THIN & CRISPY triple chocolate chip
+### (1) 巧克力饼干
 
 ![img](/img/in-post/meals/entire-choc.jpg)
 
-奇怪的不喜欢吃甜食的我，也完全禁受不住Pepperidge Farm的小饼干诱惑：相信我，这将是你吃过最好吃的饼干，没有之一！只需要$3.89的肥宅快乐，你值得拥有，好吗朋友。
+奇怪的不喜欢吃甜食的我，也完全禁受不住Pepperidge Farm的小饼干诱惑：相信我，这将是你吃过最好吃的饼干，没有之一！只需要$3.89的肥宅快乐，你值得拥有。
 
 ![img](/img/in-post/meals/choc.jpg)
 
@@ -24,7 +22,9 @@ tags:
 
 
 
-#### (2) Kimchi Soup
+
+
+### (2) 泡菜汤
 
 看太多韩国综艺的后遗症就是，满泡菜的脑子。上个星期实在忍不住，长途跋涉到华夏超市买到了梦寐以求的泡菜和五花肉，再到街角便利店买到了韩国辣酱。
 
@@ -38,4 +38,19 @@ tags:
 2. 倒入适量水（考虑到马上要加菜，比想象中要倒少一点水哦），放入两勺韩国辣酱，一筷子泡菜，洗好的蔬菜（豆腐、金针菇等等）关盖子煮至水开。
 3. 加入适量盐，就可以出锅啦！
 
-方便快捷，20分钟内可以完工，非常适合我这种懒人了。
+方便快捷，20分钟内可以完工，非常适合我这种爱喝汤的懒人了。
+
+
+
+### (3) 品客烧烤味薯片
+
+![img](/img/in-post/meals/chip.jpg)
+
+从前从前，我也是一个闻烧烤酱色变的人，直到有一天吃了一片品客烧烤味薯片--无限回购一点也不夸张。它陪伴我度过了大学里每一个失意与失落的时光，在漆黑的房间里咔嚓吃上几片，慢慢地给心情充值。
+
+
+
+### (4) 酸奶
+
+![img](/img/in-post/meals/yogurt.jpg)
+

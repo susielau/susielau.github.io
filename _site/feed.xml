@@ -5,25 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Apr 2019 21:53:58 -0500</pubDate>
-    <lastBuildDate>Wed, 03 Apr 2019 21:53:58 -0500</lastBuildDate>
+    <pubDate>Thu, 04 Apr 2019 19:16:01 -0500</pubDate>
+    <lastBuildDate>Thu, 04 Apr 2019 19:16:01 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Meals | 我都吃了些什么</title>
-        <description>&lt;h2 id=&quot;meals--我都吃些什么&quot;&gt;Meals | 我都吃些什么&lt;/h2&gt;
-
-&lt;h4 id=&quot;1-farmhouse--thin--crispy-triple-chocolate-chip&quot;&gt;(1) Farmhouse | THIN &amp;amp; CRISPY triple chocolate chip&lt;/h4&gt;
+        <title>Snacks | 超爱的零食</title>
+        <description>&lt;h3 id=&quot;1-巧克力饼干&quot;&gt;(1) 巧克力饼干&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/in-post/meals/entire-choc.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;奇怪的不喜欢吃甜食的我，也完全禁受不住Pepperidge Farm的小饼干诱惑：相信我，这将是你吃过最好吃的饼干，没有之一！只需要$3.89的肥宅快乐，你值得拥有，好吗朋友。&lt;/p&gt;
+&lt;p&gt;奇怪的不喜欢吃甜食的我，也完全禁受不住Pepperidge Farm的小饼干诱惑：相信我，这将是你吃过最好吃的饼干，没有之一！只需要$3.89的肥宅快乐，你值得拥有。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/in-post/meals/choc.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;一包里面有两盒（如上图）这么多分量的饼干，放学回家吃两块，又可以满血复活好好学习了呢~&lt;/p&gt;
 
-&lt;h4 id=&quot;2-kimchi-soup&quot;&gt;(2) Kimchi Soup&lt;/h4&gt;
+&lt;h3 id=&quot;2-泡菜汤&quot;&gt;(2) 泡菜汤&lt;/h3&gt;
 
 &lt;p&gt;看太多韩国综艺的后遗症就是，满泡菜的脑子。上个星期实在忍不住，长途跋涉到华夏超市买到了梦寐以求的泡菜和五花肉，再到街角便利店买到了韩国辣酱。&lt;/p&gt;
 
@@ -39,7 +37,18 @@
   &lt;li&gt;加入适量盐，就可以出锅啦！&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;方便快捷，20分钟内可以完工，非常适合我这种懒人了。&lt;/p&gt;
+&lt;p&gt;方便快捷，20分钟内可以完工，非常适合我这种爱喝汤的懒人了。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-品客烧烤味薯片&quot;&gt;(3) 品客烧烤味薯片&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/in-post/meals/chip.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;从前从前，我也是一个闻烧烤酱色变的人，直到有一天吃了一片品客烧烤味薯片–无限回购一点也不夸张。它陪伴我度过了大学里每一个失意与失落的时光，在漆黑的房间里咔嚓吃上几片，慢慢地给心情充值。&lt;/p&gt;
+
+&lt;h3 id=&quot;4-酸奶&quot;&gt;(4) 酸奶&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/in-post/meals/yogurt.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 03 Apr 2019 14:00:00 -0500</pubDate>
         <link>http://localhost:4000/2019/04/03/Meals/</link>
@@ -52,11 +61,9 @@
     
       <item>
         <title>Welcome | 你终于来了</title>
-        <description>&lt;h2 id=&quot;welcome--你终于来了&quot;&gt;Welcome | 你终于来了&lt;/h2&gt;
+        <description>&lt;p&gt;Hey, didn’t expect to see you here.&lt;/p&gt;
 
-&lt;p&gt;Hey, didn’t expect to see you here.&lt;/p&gt;
-
-&lt;p&gt;Call me Susie.&lt;/p&gt;
+&lt;p&gt;My name is Susie.&lt;/p&gt;
 
 &lt;p&gt;I enjoy cooking, music, and sometimes running. A big fan of musicals and korean shows.&lt;/p&gt;
 
@@ -66,7 +73,7 @@
 
 &lt;p&gt;你好呀，我是苏西。&lt;/p&gt;
 
-&lt;p&gt;简单来说，是一个享受做饭，音乐和跑步的人。同时也是音乐剧和韩国综艺节目的头号粉丝。&lt;/p&gt;
+&lt;p&gt;享受做饭，音乐和跑步，同时也是音乐剧和韩国综艺节目的头号粉丝。&lt;/p&gt;
 
 &lt;p&gt;就读于UIUC的统计&amp;amp;计算机专业，双修经济。&lt;/p&gt;
 

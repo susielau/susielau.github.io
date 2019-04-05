@@ -9,12 +9,9 @@ tags:
     - Life
 ---
 
-
-## Welcome | 你终于来了
-
 Hey, didn't expect to see you here.
 
-Call me Susie.
+My name is Susie.
 
 I enjoy cooking, music, and sometimes running. A big fan of musicals and korean shows.
 
@@ -26,7 +23,7 @@ And finally, welcome to my world, let me lead you through it.
 
 你好呀，我是苏西。
 
-简单来说，是一个享受做饭，音乐和跑步的人。同时也是音乐剧和韩国综艺节目的头号粉丝。
+享受做饭，音乐和跑步，同时也是音乐剧和韩国综艺节目的头号粉丝。
 
 就读于UIUC的统计&计算机专业，双修经济。
 
