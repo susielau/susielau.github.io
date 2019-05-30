@@ -2,7 +2,7 @@
 layout:     post
 title:      "Finals | 期末考来啦"
 subtitle:   " \"You can do it!\""
-date:       2019-04-13 19:00:00
+date:       2019-04-26 19:00:00
 author:     "Susie"
 header-img: "img/post-bg-2015.jpg"
 tags:
@@ -25,10 +25,6 @@ Final季是一个什么样的状态呢？为了弥补不熬夜而缺失的时间
 ![img](/img/in-post/finals/panda.jpg)
 
 <p style="text-align: center;">(朋友买的panda附赠的幸运饼干里的字条)</p>
-
-![img](/img/in-post/finals/bp.jpg)
-
-<p style="text-align: center;">(养眼又可爱的jennie-- 好看的照片总能让我打起精神)</p>
 
 ![img](/img/in-post/finals/what.png)
 
